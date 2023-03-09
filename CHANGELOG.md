@@ -1,5 +1,14 @@
 # Changelog
 
+## 1.0.0 (2023-03-09)
+
+
+### Features
+
+* update cosign ([04415e3](https://github.com/graybush/zotac/commit/04415e3bd1b5b00f6666cf305e55b55aa7123528))
+* update package name ([c67df9b](https://github.com/graybush/zotac/commit/c67df9b231132f9d8468f911b4db52ab733f4164))
+* updates installed software ([58c8c52](https://github.com/graybush/zotac/commit/58c8c528acd4e2403a74c5112ef26c397610d608))
+
 ## [1.1.0](https://github.com/ublue-os/base/compare/v1.0.0...v1.1.0) (2023-03-03)
 
 
